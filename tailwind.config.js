@@ -9,7 +9,7 @@ module.exports = {
   darkMode: 'media',
   theme: {
     fontFamily: {
-      sans: '"Gothic A1", sans-serif',
+      sans: '"IBM Plex Sans", sans-serif',
     },
     extend: {},
   },

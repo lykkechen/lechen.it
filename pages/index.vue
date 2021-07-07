@@ -1,6 +1,14 @@
 <template>
   <div>
     <div class="w-screen h-screen">
+      <div class="container mx-auto rounded border border-gray-50 p-2 z-50">
+        <div class="flex items-center justify-start">
+          <p class="mr-4">
+            👀 Revas is hiring!
+          </p>
+          <a class="rounded bg-gray-800 text-white px-2 py-1 hover:underline" href="https://www.revas.io">discover more</a>
+        </div>
+      </div>
       <div class="container mx-auto py-10 px-4">
         <div class="mb-8">
           <div class="text-4xl text-white">Hi! 👋</div>

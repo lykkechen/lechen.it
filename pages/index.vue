@@ -29,7 +29,7 @@
                 I mostly do Frontend Web Develpment (with Vue.js and Nuxt.js) and sometimes Backend (Golang).
               </div>
             </div>
-            <div class="text-white mt-24">
+            <div class="text-white md:mt-24">
               <div class="mb-4">
                 <div class="text-2xl">Hobbies</div>
               </div>

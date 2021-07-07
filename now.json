@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "name": "www.lechen.it",
+    "build": {
+      "env": {
+        "BASE_URL": "https://www.lechen.it"
+      }
+    },
+    "env": {
+      "BASE_URL": "https://www.lechen.it"
+    },
+    "builds": [
+      {
+        "src": "nuxt.config.js",
+        "use": "@nuxtjs/now-builder",
+        "config": {
+          "serverFiles": [
+          ]
+        }
+      }
+    ]
+  }

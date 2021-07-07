@@ -14,6 +14,9 @@ export default {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;700&display=swap' },
     ],
   },
+  env: {
+    BASE_URL: process.env.BASE_URL || 'https://www.lechen.it',
+  },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [],

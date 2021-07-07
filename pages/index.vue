@@ -9,7 +9,7 @@
           <a class="rounded bg-gray-800 text-white px-2 py-1 hover:underline" href="https://www.revas.io">discover more</a>
         </div>
       </div>
-      <div class="container mx-auto py-10 px-4">
+      <div class="container mx-auto py-10 px-8">
         <div class="mb-8">
           <div class="text-4xl text-white">Hi! 👋</div>
         </div>
@@ -27,6 +27,17 @@
               </div>
               <div class="mb-2">
                 I mostly do Frontend Web Develpment (with Vue.js and Nuxt.js) and sometimes Backend (Golang).
+              </div>
+            </div>
+            <div class="text-white mt-24">
+              <div class="mb-4">
+                <div class="text-2xl">Hobbies</div>
+              </div>
+              <div class="mb-2">
+                🍿 Netflix and chill
+              </div>
+              <div class="mb-2">
+                🍣 Sushi lover
               </div>
             </div>
           </div>
